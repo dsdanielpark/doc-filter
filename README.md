@@ -1,5 +1,5 @@
-# Python Package: Filtering
-The Python package "filtering" is used to detect and remove inappropriate information from text.
+# Python Package: Filter
+The Python package `filter` is used to detect and remove inappropriate information from text.
 
 # Installation
 ```
