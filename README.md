@@ -3,7 +3,7 @@ The Python package `filter` is used to detect and remove inappropriate informati
 
 # Installation
 ```
-pip install filter
+pip install docfilter
 ```
 
 # Features
