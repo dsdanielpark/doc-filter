@@ -1,4 +1,4 @@
-# Python Package: Filter
+# Python Package: DocFilter (Document Filter)
 The Python package `filter` is used to detect and remove inappropriate information from text.
 
 # Installation
