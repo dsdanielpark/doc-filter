@@ -3,7 +3,7 @@ The Python package "filtering" is used to detect and remove inappropriate inform
 
 # Installation
 ```
-pip install filtering
+pip install filter
 ```
 
 # Features
